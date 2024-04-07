@@ -241,6 +241,7 @@ body {
   line-height: 16px;
   letter-spacing: 0.03em;
   text-align: left;
+  color: var(--light-black);
 }
 .infoo:hover {
   color: var(--blue);
